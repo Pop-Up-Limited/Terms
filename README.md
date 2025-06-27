@@ -1,5 +1,5 @@
 # Bubblemomo — Terms of Use  
-**Effective Date:** 01 July 2025  **Last Updated:** 27 June 2025  
+**Effective Date:** 27 June 2025  **Last Updated:** 27 June 2025  
 
 > *PLEASE READ THESE TERMS CAREFULLY BEFORE PURCHASING OR USING BUBBLEMOMO.  
 > BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THE APP, OR BY TAPPING THE **SUBSCRIBE** BUTTON, YOU AGREE TO BE BOUND BY THESE TERMS AND THE POP UP LIMITED PRIVACY POLICY. IF YOU DO NOT AGREE, DO NOT USE THE APP.*
@@ -129,9 +129,9 @@ We may update these Terms to reflect legal, technical, or business changes. Mate
 
 ## 15  Contact  
 
-* **Support & Billing Enquiries**: support@popup.limited  
-* **Legal Notices**: legal@popup.limited  
+* **Support & Billing Enquiries**: contact@popup.limited  
+* **Legal Notices**: contact@popup.limited  
 * **Postal Address**: POP UP LIMITED, RM 10 23/F New Trend Centre, 704 Prince Edward Rd E, San Po Kong, Hong Kong  
-* **Telephone**: +852 XXX XXXX
+* **Telephone**: +1 626 563 4666
 
 ---
